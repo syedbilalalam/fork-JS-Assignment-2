@@ -1,0 +1,1 @@
+This repository is made for keeping my all practised javascript code to stay documented!
